@@ -1,13 +1,14 @@
 Run geneticBackpack.py. You can change configuration of calculating solutions via constants:
 
-POPULATION_SIZE = 100
-P_CROSSOVER = 0.75  
-P_MUTATION = 0.1   
-MAX_GENERATIONS = 100
-HALL_OF_FAME_SIZE = 1
+            POPULATION_SIZE = 100
+            P_CROSSOVER = 0.75  
+            P_MUTATION = 0.1   
+            MAX_GENERATIONS = 100
+            HALL_OF_FAME_SIZE = 1
 
 Main file using basic class of backpack. What exactly backpack contents:
-      name, weight, value
+            
+            name, weight, value
       
             ("map", 9, 150),
             ("compass", 13, 35),
