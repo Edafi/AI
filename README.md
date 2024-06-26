@@ -1,4 +1,5 @@
 Run geneticBackpack.py. You can change configuration of calculating solutions via constants:
+
 POPULATION_SIZE = 100
 P_CROSSOVER = 0.75  
 P_MUTATION = 0.1   
